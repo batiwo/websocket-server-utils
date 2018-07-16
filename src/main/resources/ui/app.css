@@ -1,0 +1,16 @@
+.group {
+    -fx-border-color: #A0A0A0;
+
+}
+
+.groupLabel {
+    -fx-background-color: #D0D0D0;
+}
+
+.text, .text-field, .text-area, .button {
+    -fx-font: 16px "Soege";
+}
+
+#customTitle {
+    -fx-font: 36px "Soege" !important;
+}
