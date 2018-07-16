@@ -8,7 +8,7 @@ The purpose of this project is to provide a tools to test notification/messaging
 3. **OR** build the `spring-websocket` project with `mvn install`
 4. Use a websocket client like [https://github.com/batiwo/spring-websocket-angular6](https://github.com/batiwo/spring-websocket-angular6).
 
-<img src="demo.png" alt="Screenshot of running demo" width="700" height="450" border="10"/>
+<img src="demo.png" alt="Screenshot of running demo" width="450" border="10"/>
 
 ## Configure
 The endpoint and the streamUrl (`/topic` by default) are both configurable from `application.properties` or by JVM arguments (Using `-Dwebsocket.endpoint=/socket1` and `-Dwebsocket.handler=/topic1`).
